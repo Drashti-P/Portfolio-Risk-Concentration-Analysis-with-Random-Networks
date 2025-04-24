@@ -19,7 +19,7 @@ The empirical network is analysed by comparing it to well-known random network m
 -Erdős–Rényi (ER) Networks: Known for randomness and independence between nodes. Similarity here would suggest true diversification and no hidden clustering.
 *Barabási–Albert (BA) Networks: Characterised by preferential attachment and clustering, potentially signaling dependency structures or hidden risk concentrations.
 
-By comparing empirical network statistics—like average clustering coefficient, path length, degree distribution, and modularity—against these models, we can infer if and where dependencies exist in the portfolio structure. _Currently, I am still exploring which network statistics to use._
+By comparing empirical network statistics—like average clustering coefficient, path length, degree distribution, and modularity—against these models, we can infer if and where dependencies exist in the portfolio structure. **Currently, the project focus is deciding which statistics/properties to use.**
 
 ## Next Steps:
 
